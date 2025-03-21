@@ -1,4 +1,3 @@
-# custom-search-engine
 
 # Custom Search Engine in C++
 
