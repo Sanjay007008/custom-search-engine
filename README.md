@@ -112,5 +112,5 @@ The goal of this project is to create a basic search engine that indexes documen
 To build and run this project on your local machine:
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/CustomSearchEngine.git
+   
+   git clone https://github.com/Sanjay007008/search-engine.git
